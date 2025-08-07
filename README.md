@@ -1,1 +1,114 @@
 ##HII THERE 😀😁😀
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GameNest - Free Games Hub</title>
+  <link rel="icon" href="your-logo.png" type="image/png" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: url('A_digital_graphic_design_promotes_gaming_with_the_.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #f0f0f0;
+      backdrop-filter: brightness(50%) blur(2px);
+    }
+    header {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      color: #00ffcc;
+    }
+    section {
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 20px;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    h2 {
+      color: #ff66cc;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
+    a {
+      color: #00ffd5;
+    }
+    a:hover {
+      color: #ff33ff;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: rgba(0, 0, 0, 0.7);
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>GameNest</h1>
+    <p>Play Free, Anywhere – PC, Android, iOS & Web</p>
+  </header>
+
+  <section>
+    <h2>🔥 Featured Games</h2>
+    <table>
+      <tr><th>Game</th><th>Platform</th><th>Genre</th><th>Link</th></tr>
+      <tr><td>SuperTuxKart</td><td>PC, Android</td><td>Racing</td><td><a href="https://supertuxkart.net/Download">Download</a></td></tr>
+      <tr><td>0 A.D.</td><td>PC</td><td>Strategy</td><td><a href="https://play0ad.com/download/">Download</a></td></tr>
+      <tr><td>Crossy Road</td><td>Android, iOS</td><td>Arcade</td><td><a href="https://play.google.com/store/apps/details?id=com.yodo1.crossyroad">Download</a></td></tr>
+      <tr><td>Krunker.io</td><td>Web</td><td>FPS</td><td><a href="https://krunker.io/">Play</a></td></tr>
+      <tr><td>Temple Run 2</td><td>Web, Android, iOS</td><td>Runner</td><td><a href="https://poki.com/en/g/temple-run-2">Play</a></td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>🖥️ Monetize with Gaming Gear</h2>
+    <ul>
+      <li><strong>HyperX Cloud II</strong> – <a href="#">Buy on Amazon</a></li>
+      <li><strong>HyperX Alloy Origins</strong> – <a href="#">Buy on Amazon</a></li>
+      <li><strong>HyperX QuadCast Mic</strong> – <a href="#">Buy on Amazon</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📧 Contact</h2>
+    <p>Email: <a href="mailto:gamenest.play@gmail.com">gamenest.play@gmail.com</a></p>
+  </section>
+
+  <section>
+    <h2>👤 About the Creator</h2>
+    <p>Hi, I'm Ankit Raut — a passionate gamer and web creator. I built GameNest to help players discover 100% free, fun, and legal games across all platforms. No ads. No subscriptions. Just play!</p>
+  </section>
+
+  <section>
+    <h2>📄 Legal & Ownership</h2>
+    <p>All content and design on this site are created and owned by Ankit Raut. GameNest shares only publicly available, safe-to-download game links. We do not host any game files directly.</p>
+  </section>
+
+  <section>
+    <h2>🌐 Custom Domain</h2>
+    <p>This site can be hosted at <strong>www.gamenesthub.com</strong> or any domain you choose. Contact your registrar to connect this HTML file to your domain.</p>
+  </section>
+
+  <footer>
+    © 2025 GameNest by Ankit Raut. All rights reserved.
+  </footer>
+
+</body>
+</html>
